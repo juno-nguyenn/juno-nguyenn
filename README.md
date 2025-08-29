@@ -27,8 +27,8 @@ const juno_nguyen = {
 
 ### Connect with me:
 
-[![website](./img/mail-light.svg)](https://mail.google.com/#gh-light-mode-only)
-[![website](./img/mail.svg)](https://mail.google.com/#gh-dark-mode-only)
+[![website](./img/mail-light.svg)](mailto:ngson.workemail@gmail.com#gh-light-mode-only)
+[![website](./img/mail.svg)](mailto:ngson.workemail@gmail.com#gh-dark-mode-only)
 &nbsp;&nbsp;
 [![website](./img/facebook-light.svg)](https://www.facebook.com/juno.nguyenn/#gh-light-mode-only)
 [![website](./img/facebook.svg)](https://www.facebook.com/juno.nguyenn/#gh-dark-mode-only)
